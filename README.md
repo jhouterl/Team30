@@ -1,4 +1,4 @@
 # Team30
 # MSIS
-jhouterl
-dereklasky
+# dereklasky
+# jhouterl
