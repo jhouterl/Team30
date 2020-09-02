@@ -2,6 +2,4 @@
 # MSIS
 # dereklasky
 # jhouterl
-# mjlogiur
-
 # winniehan666
